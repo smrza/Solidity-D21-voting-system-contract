@@ -1,7 +1,7 @@
 # Solidity-D21-voting-system-contract
 Blockchain seminar semestral task
 
-## Assignment:
+## Assignment
 
 ### Tutorial objectives
 Create a basic skeleton for the final exercise, which is the voting system smart contract with rules of "Janečkova metoda
